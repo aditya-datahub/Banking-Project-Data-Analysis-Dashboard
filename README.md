@@ -1,19 +1,15 @@
-# 🏦 Banking Data Analysis & Dashboard  
+# 🏦 Banking-Project-Data-Analysis-Dashboard  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![SQL](https://img.shields.io/badge/SQL-Database-orange)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
-
-A concise data analytics project focused on **banking datasets**. It includes SQL scripts for data cleaning & queries, Jupyter notebooks for analysis, and an **interactive dashboard** to visualize customer insights and key banking metrics.  
+A comprehensive **data analytics project** focused on banking datasets. This repository includes SQL scripts for data cleaning & queries, Jupyter notebooks for analysis, and a dashboard (in the `docs/` folder) to visualize customer insights and key banking metrics.  
 
 ---
 
-## 📂 Structure  
-- `datasets/` – Data files  
-- `notebooks/` – Jupyter notebooks  
-- `sql/` – SQL scripts  
-- `requirements.txt` – Dependencies  
+## 📂 Project Structure  
+- `datasets/` – Raw & processed datasets  
+- `notebooks/` – Jupyter notebooks for analysis & visualization  
+- `sql/` – SQL scripts (data cleaning, queries, transformations)  
+- `docs/` – Dashboard and related documentation  
+- `requirements.txt` – Dependencies for setup  
 
 ---
 
@@ -35,8 +31,10 @@ SQL • Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
 git clone https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard.git
 pip install -r requirements.txt
 
+Run the notebooks in Jupyter for analysis; the dashboard is available in the `docs/` folder.
+
 ---
 
 📜 License
 
-Licensed under the MIT License.
+This project is licensed under the MIT License – free to use and modify.
