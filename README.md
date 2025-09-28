@@ -44,9 +44,10 @@ pip install -r requirements.txt
 # 3. Launch Jupyter for analysis (optional)
 jupyter lab # or jupyter notebook
 
----
-
 Run the notebooks in Jupyter for in-depth analysis. The final dashboard is available for viewing within the docs/ folder.
 
-📜 License
-This project is licensed under the MIT License – free to use and modify.
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – free to use and modify.
