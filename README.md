@@ -35,7 +35,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository and navigate into the folder
-git clone [https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard.git](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard.git)
+git clone https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard.git
 cd Banking-Project-Data-Analysis-Dashboard
 
 # 2. Install Python dependencies
@@ -44,9 +44,9 @@ pip install -r requirements.txt
 # 3. Launch Jupyter for analysis (optional)
 jupyter lab # or jupyter notebook
 
-Run the notebooks in Jupyter for in-depth analysis. The final dashboard is available for viewing within the docs/ folder.
-
 ---
+
+Run the notebooks in Jupyter for in-depth analysis. The final dashboard is available for viewing within the docs/ folder.
 
 📜 License
 This project is licensed under the MIT License – free to use and modify.
