@@ -1,6 +1,6 @@
 # 🏦 Banking-Project-Data-Analysis-Dashboard
 
-A comprehensive **data analytics project** focused on banking datasets. This repository includes **SQL scripts** for data cleaning and querying, **Jupyter notebooks** for analysis, and a **dashboard** (in the `docs/` folder) to visualize customer insights and key banking metrics.
+A comprehensive **data analytics project** focused on banking datasets. This repository includes **SQL scripts** for data cleaning and querying, **Jupyter notebooks** for in-depth analysis, and an **interactive dashboard built with Power BI** (in the `docs/` folder) to visualize customer insights and key banking metrics.
 
 ---
 
@@ -16,7 +16,7 @@ A comprehensive **data analytics project** focused on banking datasets. This rep
 
 ## ⚙️ Tech Stack
 
-SQL • **Python** • Pandas • Matplotlib • Seaborn • Jupyter Notebook
+SQL • **Python** • Pandas • Matplotlib • Seaborn • Jupyter Notebook • **Power BI**
 
 ---
 
